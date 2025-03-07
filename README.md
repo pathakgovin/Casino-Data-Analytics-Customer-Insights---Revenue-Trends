@@ -33,6 +33,20 @@ The dataset includes casino gaming data containing the following features:
 **Source**: The dataset is sourced from **casino gaming transactions**, containing anonymized records to analyze trends and patterns.  
 
 ---
+## 📌 Data Source  
+The dataset used in this project is **publicly available** and provided by the **State of Connecticut** via [data.ct.gov](https://data.ct.gov). It includes information on online casino gaming, such as **total wagers, revenue, patron winnings, promotional credits used, and net profit/loss**.
+
+### 🔹 Dataset Information  
+- **Dataset Name**: Selected Online Casino Gaming Data  
+- **Source**: [State of Connecticut Open Data Portal](https://catalog.data.gov/dataset/selected-online-casino-gaming-data)  
+- **Direct Download Link**: [CSV File](https://data.ct.gov/dataset/selected-online-casino-gaming-data)  
+- **Metadata Created Date**: December 3, 2021  
+- **Metadata Updated Date**: February 21, 2025  
+- **License**: This dataset is covered by different Terms of Use from Data.gov. No specific license information was provided.
+
+⚠ **Note**: This dataset is **publicly available** and does **not** contain **personal or sensitive data**. However, users should comply with any **applicable terms and conditions** from the data provider.
+
+---
 
 ## 📈 Exploratory Data Analysis (EDA)  
 We conducted **in-depth data visualization** and analysis using **Matplotlib and Seaborn** to identify trends, correlations, and patterns:  
